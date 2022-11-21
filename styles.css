@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+.title {
+    font-size: x-large;
+}
+.title2 {
+    font-size: x-large;
+}
+.title3 {
+    font-size: larger;
+}
+body {
+    background-color: rgb(235, 181, 82);
+    display: block;
+    margin: 8px;
+}
+#mainHeading {
+    font-size: xx-large;
+    color: red;
+    text-align: center;
+}
+#director {
+    color: brown;
+}
+.funParagraph {
+    color: green;
+}
+#testP {
+    color: green;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+p {
+    text-align: center;
+}
