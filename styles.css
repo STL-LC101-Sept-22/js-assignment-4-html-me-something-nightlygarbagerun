@@ -22,7 +22,7 @@ body {
     color: brown;
 }
 .funParagraph {
-    color: green;
+    background-color: green;
 }
 img {
     display: block;
