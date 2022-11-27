@@ -21,7 +21,7 @@ body {
 #director {
     color: brown;
 }
-.funParagraph {
+.funParagraph, article{
     color: green;
 }
 #testP {
